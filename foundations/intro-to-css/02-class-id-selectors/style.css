@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.odd-num {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: rgb(255, 171, 171);
+}
+
+#num2-im-one-id {
+    color: #4444fb;
+    font-size: 36px;
+}
+
+.lrg-fnt {
+    font-size: 24px;
+}
+
+#num4-im-another-id {
+    background-color: rgb(70, 248, 70);
+    font-weight: bold;
+}
